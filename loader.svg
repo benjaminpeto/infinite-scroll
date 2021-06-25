@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: none; display: block; shape-rendering: auto;" width="115px" height="115px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<g transform="translate(27,27)">
+  <rect x="-19" y="-19" width="38" height="38" fill="#1d3f72">
+    <animateTransform attributeName="transform" type="scale" repeatCount="indefinite" dur="1.25s" keyTimes="0;1" values="1.1;1" begin="-0.37499999999999994s"></animateTransform>
+  </rect>
+</g>
+<g transform="translate(73,27)">
+  <rect x="-19" y="-19" width="38" height="38" fill="#5699d2">
+    <animateTransform attributeName="transform" type="scale" repeatCount="indefinite" dur="1.25s" keyTimes="0;1" values="1.1;1" begin="-0.25s"></animateTransform>
+  </rect>
+</g>
+<g transform="translate(27,73)">
+  <rect x="-19" y="-19" width="38" height="38" fill="#8da2b2">
+    <animateTransform attributeName="transform" type="scale" repeatCount="indefinite" dur="1.25s" keyTimes="0;1" values="1.1;1" begin="0s"></animateTransform>
+  </rect>
+</g>
+<g transform="translate(73,73)">
+  <rect x="-19" y="-19" width="38" height="38" fill="#71c2cc">
+    <animateTransform attributeName="transform" type="scale" repeatCount="indefinite" dur="1.25s" keyTimes="0;1" values="1.1;1" begin="-0.125s"></animateTransform>
+  </rect>
+</g>
+</svg>

@@ -1,0 +1,7 @@
+# Ignore API keys
+
+config.js
+
+# ignore default macOS files
+
+.DS_Store
